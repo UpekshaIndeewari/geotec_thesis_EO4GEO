@@ -8,4 +8,5 @@ There are o5 main folders
 2. Data_processing - This folder consisted with tool for data cleaning and processing
 3. Evaluation_matrix - this folder contains code example for evalaution (multi-class classification) with micro-averages
 4. NLP_tools - This folder contains code eamples for 12 proposed NLP-based tools which are design and developed for annotation with EO4GEO BoK Concepts.
-5. Website Demo- This is the demostrate of the proposed web site
+5. Website - This folder contains HTML, .py . CSS fils which created for website development using Flask frame work
+6. Website Demo- This is the demostrate of the proposed web site
